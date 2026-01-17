@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Copy URL (Cmd+Shift+C)",
+  "name": "Copy URL (Cmd+Shift+U)",
   "version": "1.0",
-  "description": "Copy current tab URL to clipboard with Cmd+Shift+C",
+  "description": "Copy current tab URL to clipboard with Cmd+Shift+U",
   "icons": {
     "16": "icons/icon16.png",
     "32": "icons/icon32.png",
@@ -16,8 +16,8 @@
   "commands": {
     "copy-url": {
       "suggested_key": {
-        "mac": "Command+Shift+C",
-        "default": "Ctrl+Shift+C"
+        "mac": "Command+Shift+U",
+        "default": "Ctrl+Shift+U"
       },
       "description": "Copy current tab URL to clipboard"
     }
